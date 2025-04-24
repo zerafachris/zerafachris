@@ -32,12 +32,7 @@ A comprehensive introduction to machine learning with Python, covering fundament
 
 Organised an international data science competition focused on developing algorithms for detecting gravitational waves from noisy data, in collaboration with the European Gravitational Observatory (EGO) and G2Net.
 
-## Publications \& Research
-
-- "Local Knowledge Profiling: A Method for Automatic Discovery of Interesting Patterns" (Forthcoming)
-- "Real-time Enhanced Self-Exclusion Prediction in iGaming" (Forthcoming)
-- "A Real-Time Prescriptive Solution for Explainable Cyber-Fraud Detection Within the iGaming Industry" (2021)
-
+## [Publications \& Research](https://scholar.google.com/citations?user=-bdKqmUAAAAJ&hl=en)
 
 ## Education
 
