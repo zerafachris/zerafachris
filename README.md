@@ -53,10 +53,6 @@ Organised an international data science competition focused on developing algori
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zerafachris&theme=github-dark&hide_border=true&area=true" alt="Contribution activity graph" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=zerafachris&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
