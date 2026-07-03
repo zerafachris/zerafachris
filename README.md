@@ -44,17 +44,11 @@ Organised an international data science competition focused on developing algori
 ## GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Pranesh-2005/github-readme-stats-fast">
-    <img height="170em" src="https://github-readme-stats-fast-zerafachris.vercel.app/api?username=zerafachris&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark" alt="Christopher Zerafa's GitHub stats" />
+  <a href="https://git.io/streak-stats">
+    <img height="170em" src="https://streak-stats.demolab.com/?user=zerafachris&theme=github-dark&hide_border=true" alt="GitHub streak stats" />
   </a>
   <a href="https://github.com/Pranesh-2005/github-readme-stats-fast">
     <img height="170em" src="https://github-readme-stats-fast-zerafachris.vercel.app/api/top-langs/?username=zerafachris&layout=compact&langs_count=8&theme=github_dark" alt="Top languages" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=zerafachris&theme=github-dark&hide_border=true" alt="GitHub streak stats" />
   </a>
 </p>
 
