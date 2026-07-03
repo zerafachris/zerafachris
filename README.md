@@ -41,6 +41,21 @@ Organised an international data science competition focused on developing algori
 - **BSc in Mathematics and Physics**, University of Malta (First Class Honours)
 
 
+## GitHub Stats
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img height="170em" src="https://streak-stats.demolab.com/?user=zerafachris&theme=github-dark&hide_border=true" alt="GitHub streak stats" />
+  </a>
+  <a href="https://github.com/Pranesh-2005/github-readme-stats-fast">
+    <img height="170em" src="https://github-readme-stats-fast-zerafachris.vercel.app/api/top-langs/?username=zerafachris&layout=compact&langs_count=8&theme=github_dark" alt="Top languages" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zerafachris&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 ## Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/christopherzerafa/)
