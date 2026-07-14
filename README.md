@@ -34,6 +34,25 @@ Organised an international data science competition focused on developing algori
 
 ## [Publications \& Research](https://scholar.google.com/citations?user=-bdKqmUAAAAJ&hl=en)
 
+## Supervised Student Projects
+
+### 2025
+
+- **Sports Game Recommendation Engine Comparison** — Manuel Rasero
+
+### 2024
+
+- **Using AI Systems to Detect Problem Gamblers in Online Gaming** — Luke Pullicino, Dr Joel Azzopardi, Dr Christopher Zerafa
+
+### 2023
+
+- **Player Activity Clustering and Anomaly Detection** — Calvin Micallef, Dr Charlie Abela, Dr Christopher Zerafa
+- **Developing Next-Generation Feature Store in Real-Time Streaming Big Data Environment** — Amadeusz Horzyk, Dr Charlie Abela, Dr Christopher Zerafa
+
+### 2016
+
+- **Petrophysical Study of the F3 Block within the Dutch Sector of the North Sea** — Bernard Pisani, Dr Godwin Debono, Dr Christopher Zerafa
+
 ## Education
 
 - **PhD in Geophysics**, University of Malta
