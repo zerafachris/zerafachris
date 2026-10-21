@@ -66,9 +66,7 @@ Organised an international data science competition focused on developing algori
   <a href="https://git.io/streak-stats">
     <img height="170em" src="https://streak-stats.demolab.com/?user=zerafachris&theme=github-dark&hide_border=true" alt="GitHub streak stats" />
   </a>
-  <a href="https://github.com/Pranesh-2005/github-readme-stats-fast">
-    <img height="170em" src="https://github-readme-stats-fast-zerafachris.vercel.app/api/top-langs/?username=zerafachris&layout=compact&langs_count=8&theme=github_dark" alt="Top languages" />
-  </a>
+  <img height="170em" src="assets/top-langs.svg" alt="Top languages" />
 </p>
 
 <p align="center">
