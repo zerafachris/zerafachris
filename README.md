@@ -27,7 +27,7 @@ I build data platforms and the AI that runs on them, in businesses where every f
 On the [tech blog](https://zerafachris.github.io/bio/):
 
 - [AI Isn't Killing SaaS. It's Killing the Moat.](https://zerafachris.github.io/bio/ai-saas-moat-open-source/) (Oct 2026)
-- [One Senior Engineer Plus Agents Beats a Team of Four](https://zerafachris.github.io/bio/one-engineer-plus-agents/) (Oct 2026)
+- [AI Didn't Make Engineers Cheaper. It Changed What You Hire Them For.](https://zerafachris.github.io/bio/one-engineer-plus-agents/) (Oct 2026)
 - [All posts](https://zerafachris.github.io/bio/posts/)
 
 Also interviewed for iGamingBusiness's 2026 *AI Market Intelligence Report: Usage and Governance in Gaming*.
